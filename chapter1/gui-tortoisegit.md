@@ -4,7 +4,5 @@
 
 2. 軟體安裝：
 
-
-
-
+![](/assets/torgit-01.png)![](/assets/torgit-02.png)![](/assets/torgit-03.png)
 
