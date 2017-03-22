@@ -5,4 +5,6 @@
   * [Core: Git-for-windows](chapter1/core.md)
   * [GUI: Tortoisegit](chapter1/gui-tortoisegit.md)
 * [首次使用設定](git-for-windows.md)
+* [基本操作](ji-ben-cao-zuo.md)
+  * [建立Repository](ji-ben-cao-zuo/jian-li-repository.md)
 
