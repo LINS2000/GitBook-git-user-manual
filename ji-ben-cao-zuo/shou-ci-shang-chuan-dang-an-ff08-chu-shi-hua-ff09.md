@@ -4,9 +4,7 @@
 
 ![](/assets/170322-1814.png)
 
-\(2\)    URL填入遠端目錄（建議以file://格式填入）
-
-Directory填本機端目錄（目錄必須是空的）
+\(2\)    URL填入遠端目錄（建議以file://格式填入），Directory填本機端目錄（目錄必須是空的）
 
 ![](/assets/170322-1815.png)
 
@@ -14,9 +12,7 @@ Directory填本機端目錄（目錄必須是空的）
 
 \(4\)    修改.gitignore（不須控管的例外清單）
 
-\(5\)    上傳：Commit & Push
-
-填Message（必填）→Commit
+\(5\)    上傳：Commit & Push，填Message（必填）→Commit
 
 ![](/assets/170322-1817.png)
 
