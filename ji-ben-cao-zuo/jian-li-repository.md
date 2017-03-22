@@ -1,5 +1,7 @@
 # 建立Repository
 
+通常Repository建立在公用區域，讓專案成員都能存取它
+
 \(1\)    檔案總管 → 選定一目錄 → 滑鼠右鍵
 
 ![](/assets/170322-1800import.png)
