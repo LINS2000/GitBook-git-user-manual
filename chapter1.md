@@ -1,3 +1,11 @@
-# First Chapter
+# 軟體安裝
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+1. #### Core: Git-for-windows
+
+   1. 軟體下載：[https://git-scm.com/download/win](https://git-scm.com/download/win)
+
+   2. 
+2. #### GUI: Tortoisegit
+
+
+
