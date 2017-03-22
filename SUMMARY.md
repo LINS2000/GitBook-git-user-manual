@@ -7,5 +7,5 @@
 * [首次使用設定](git-for-windows.md)
 * [基本操作](ji-ben-cao-zuo.md)
   * [建立Repository](ji-ben-cao-zuo/jian-li-repository.md)
-  * [首次上傳檔案（初始化）](ji-ben-cao-zuo/shou-ci-shang-chuan-dang-an-ff08-chu-shi-hua-ff09.md)
+  * [上傳檔案](ji-ben-cao-zuo/shou-ci-shang-chuan-dang-an-ff08-chu-shi-hua-ff09.md)
 
