@@ -8,5 +8,6 @@
 * [基本操作](ji-ben-cao-zuo.md)
   * [建立Repository](ji-ben-cao-zuo/jian-li-repository.md)
   * [上傳檔案](ji-ben-cao-zuo/shou-ci-shang-chuan-dang-an-ff08-chu-shi-hua-ff09.md)
-* [本文QR Code](ben-wen-qr-code.md)
+* [附錄](fu-lu.md)
+  * [QR Code](fu-lu/qr-code.md)
 
