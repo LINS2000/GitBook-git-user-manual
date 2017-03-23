@@ -12,7 +12,7 @@ Git is a[free and open source](https://git-scm.com/about/free-and-open-source)di
 
 Git is[easy to learn](https://git-scm.com/documentation)and has a[tiny footprint with lightning fast performance](https://git-scm.com/about/small-and-fast). It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like[cheap local branching](https://git-scm.com/about/branching-and-merging), convenient[staging areas](https://git-scm.com/about/staging-area), and[multiple workflows](https://git-scm.com/about/distributed).
 
-**URL:** [https://git-scm.com](https://git-scm.com)
+> **URL:** [https://git-scm.com](https://git-scm.com)
 
 #### **相關網站**
 
