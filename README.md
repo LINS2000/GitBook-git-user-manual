@@ -6,6 +6,8 @@
 
 git最初的開發動力來自於[BitKeeper](https://zh.wikipedia.org/wiki/BitKeeper)和[Monotone](https://zh.wikipedia.org/wiki/Monotone_%28軟體%29)[\[7\]](https://zh.wikipedia.org/wiki/Git#cite_note-7)[\[8\]](https://zh.wikipedia.org/wiki/Git#cite_note-8)。git最初只是作為一個可以被其他前端（比如Cogito或Stgit[\[9\]](https://zh.wikipedia.org/wiki/Git#cite_note-9)）包裝的後端而開發的，但後來git內核已經成熟到可以獨立地用作版本控制[\[10\]](https://zh.wikipedia.org/wiki/Git#cite_note-10)。很多著名的軟體都使用git進行版本控制[\[11\]](https://zh.wikipedia.org/wiki/Git#cite_note-11)，其中包括[Linux內核](https://zh.wikipedia.org/wiki/Linux内核)、[X.Org伺服器](https://zh.wikipedia.org/wiki/X.Org服务器)和[OLPC](https://zh.wikipedia.org/wiki/OLPC)內核等專案的開發流程[\[12\]](https://zh.wikipedia.org/wiki/Git#cite_note-12)。
 
+> **URL:** [https://zh.wikipedia.org/wiki/Git](https://zh.wikipedia.org/wiki/Git)
+
 #### **官網**
 
 Git is a[free and open source](https://git-scm.com/about/free-and-open-source)distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
