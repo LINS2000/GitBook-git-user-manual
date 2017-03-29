@@ -13,5 +13,5 @@
 * [附錄](fu-lu.md)
   * [參考文件](fu-lu/can-kao-wen-jian.md)
   * [QR Code](fu-lu/qr-code.md)
-* 進階操作
+* [進階操作](jin-jie-cao-zuo.md)
 
