@@ -8,6 +8,7 @@
 * [基本操作](ji-ben-cao-zuo.md)
   * [建立Repository](ji-ben-cao-zuo/jian-li-repository.md)
   * [連結主機目錄](ji-ben-cao-zuo/lian-jie-zhu-ji-mu-lu.md)
+  * [下載檔案](ji-ben-cao-zuo/xia-zai-dang-an.md)
   * [上傳檔案](ji-ben-cao-zuo/shou-ci-shang-chuan-dang-an-ff08-chu-shi-hua-ff09.md)
 * [附錄](fu-lu.md)
   * [參考文件](fu-lu/can-kao-wen-jian.md)

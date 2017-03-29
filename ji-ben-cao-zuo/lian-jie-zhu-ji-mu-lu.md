@@ -1,4 +1,4 @@
-# 連結主機目錄
+# 連結主機目錄 -- Git Clone
 
 設定本機的工作區域（Working area）連上主機Repository，以利後續檔案同步工作
 
