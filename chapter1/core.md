@@ -1,5 +1,7 @@
 # Core: Git-for-windows
 
+---
+
 1. 軟體下載：[https://git-scm.com/download/win](https://git-scm.com/download/win)，依32/64bit平台取得最新穩定版本。
 
 2. 軟體安裝：

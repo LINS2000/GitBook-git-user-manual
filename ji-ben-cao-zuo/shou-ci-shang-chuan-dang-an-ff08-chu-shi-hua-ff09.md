@@ -1,8 +1,10 @@
 # 上傳檔案 -- Git Commit \#Push
 
+---
+
 以本機檔案更新主機檔案
 
-\(1\)    滑鼠右鍵→選`Git Commit` 
+\(1\)    滑鼠右鍵→選`Git Commit`
 
 ![](/assets/170322-1817.png)
 
