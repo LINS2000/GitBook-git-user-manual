@@ -18,7 +18,7 @@
 
 ![](/assets/git-pull-ok2.png)
 
-\(3\)    \`Git Sync...\`
+\(3\)    或`Git Sync...`
 
 
 
