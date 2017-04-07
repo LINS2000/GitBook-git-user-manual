@@ -1,4 +1,4 @@
-# 上傳檔案 -- Git Commit \#Push
+# 上傳檔案 -- Commit & Push
 
 ---
 

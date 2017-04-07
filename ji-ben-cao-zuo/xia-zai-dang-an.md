@@ -1,4 +1,4 @@
-# 下載檔案 -- Git Sync \#Pull
+# 下載檔案 -- Pull
 
 ---
 
@@ -8,13 +8,13 @@
 * 若Local檔案較新→Remote檔案會與Local檔案進行Merge
 * 若上述Merge發生版本衝突\(Conflict\)→須以人工判斷排除
 
-\(1\)    滑鼠右鍵→選`Git Sync...`
+\(1\)    滑鼠右鍵→選`Pull...`
 
-![](/assets/201703290258import.png)
+![](/assets/git-pull.png)
 
-\(2\)    把檔案拉下來→選`Pull`
+\(2\)    把檔案拉下來→選`OK`
 
-![](/assets/201703290301import.png)
+![](/assets/git-pull-ok.png)
 
-![](/assets/201703290304import.png)
+![](/assets/git-pull-ok2.png)
 
