@@ -11,5 +11,13 @@
 * 只選擇保留一個版本，你的或別人的??
 * 或者，二個版本都保留，誰先誰後??
 
-![](/assets/resolve-2.png)
+![](/assets/resolve-3)
+
+選擇完成後，下方視窗會標為綠底\(驚嘆號也消除\)
+
+![](/assets/reslove-5)
+
+進行存檔，並將衝突標示為已解決\(Mark as resolved\)
+
+![](/assets/resolve-6)
 
