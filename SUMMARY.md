@@ -12,6 +12,7 @@
   * [上傳檔案](ji-ben-cao-zuo/shou-ci-shang-chuan-dang-an-ff08-chu-shi-hua-ff09.md)
   * [版本日誌](ji-ben-cao-zuo/ban-ben-ri-zhi.md)
 * [進階操作](jin-jie-cao-zuo.md)
+  * [暫存](jin-jie-cao-zuo/zan-cun.md)
   * [分支](jin-jie-cao-zuo/fen-zhi.md)
   * [合併](jin-jie-cao-zuo/he-bing.md)
   * [衝突排除](jin-jie-cao-zuo/chong-tu-pai-chu.md)

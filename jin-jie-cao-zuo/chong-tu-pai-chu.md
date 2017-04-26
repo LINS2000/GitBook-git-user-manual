@@ -1,4 +1,4 @@
-# 衝突排除
+# 衝突排除 -- Resolve Conflict
 
 ---
 
